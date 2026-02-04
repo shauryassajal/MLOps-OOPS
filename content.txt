@@ -11,5 +11,14 @@
 
 5. End to end Project (Chatbook class)
     . Encapsulation
+    . Magic method or dunder method
     . Gettter and setter
     . static method
+
+6. Inheritance
+    . Inheritance code example
+    . Why Inheritance is needed? (code reusability, parent has no access to child class)
+    . what gets inherited? - Constructor, Non Private attributes, Non private methods 
+    . Constructor overloading & method overloading
+    . Super keyword(can be used only inside class, can not access variables/attributes, used only inside child class)
+    . Types of inherited - 1. Single Inheritance | 2. Multilevel | 3. Hierarchical | 4. Multiple <Diamond Problem> | 5. Hybrid
